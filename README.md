@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Olá 👋 
 
-Meu nome é Priscila Troina e eu sou Analista de Testes. Possuo 2 anos de experiência e nesse tempo atuei quase que em sua totalidade com testes manuais. No entanto, já faz algum tempo que estudo automação de testes e então, resolvi criar esse repositório para começar a mostrar meus projetos.
+Meu nome é Priscila Troina e eu sou Analista de Testes. Possuo 2 anos de experiência e nesse tempo tive maior foco de atuação com testes manuais. No entanto, já faz algum tempo que estudo automação de testes e então, resolvi criar esse repositório para começar a mostrar meus projetos.
 
 Meu perfil ainda está em construção, mas aqui seguem algumas informações importantes 👇:
 
