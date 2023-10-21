@@ -44,5 +44,21 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 - Scrum;
 - Kanban.
 
+**Como citado anteriormente, esse repositório está em construção, mas segue aqui alguns materiais já existentes:**
 
+💡Projeto de conclusão de curso da escola QAzando, onde eu inseri por conta própria a funcionalidade de login: https://github.com/PriscilaTroina/Praticando-Cypress-Cadastro-e-Login-de-Usuario;
+
+💡Projeto próprio que visa automatizar algumas páginas da escola Qazando. Esse está sendo feito de acordo com a disponibilidade de tempo: https://github.com/PriscilaTroina/Validar-Header-EntreEmContato-PageObjects;
+
+💡Material em andamento do curso sobre GitHub Actions: https://github.com/PriscilaTroina/treinamento-cypress-actions.
+
+**Próximos passos a curto prazo:**
+
+💡 Finalizar o projeto próprio de automação do site QaZando que está em andamento;
+
+💡 Finalizar o treinamento de Github Actions;
+
+💡 Fazer um projeto em Cypress apenas com Custom Commands já que até agora só mostrei conhecimento em Page Objects;
+
+💡 Apresentar material sobre um segundo framework de testes automatizados.
 
