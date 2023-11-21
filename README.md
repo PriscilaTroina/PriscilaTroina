@@ -25,10 +25,9 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 🖥️ Atualmente, tenho meus estudos focados em Cypress e Selenium WebDriver com Java;
 
 
-**Ferramentas e Tecnologias que tenho conhecimento e/ou experiência:**
+**Ferramentas e Tecnologias que tenho experiência:**
 
 - Lógica de programação;
-- Java;
 - JavaScript;
 - HTML, CSS e Bootstrap;
 - SQL;
@@ -39,24 +38,17 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 - Cucumber;
 - Postman para testes manuais de API;
 - Git/GitHub;
+- GitHub Actions;
 - Azure Test Plans;
 - Jira;
+- Confluence;
 - Scrum;
 - Kanban.
 
-**Como citado anteriormente, esse repositório está em construção, mas segue aqui alguns materiais já existentes:**
-
-💡Projeto de conclusão de curso da escola QAzando, onde eu inseri por conta própria a funcionalidade de login: https://github.com/PriscilaTroina/Praticando-Cypress-Cadastro-e-Login-de-Usuario;
-
-💡Projeto próprio que visa automatizar algumas páginas da escola Qazando. Esse está sendo feito de acordo com a disponibilidade de tempo: https://github.com/PriscilaTroina/Validar-Header-EntreEmContato-PageObjects;
-
-💡Material concluído do curso sobre GitHub Actions: https://github.com/PriscilaTroina/treinamento-cypress-actions.
 
 **Próximos passos a curto prazo:**
 
 💡 Finalizar o projeto próprio de automação do site QaZando que está em andamento;
-
-💡 Fazer um projeto em Cypress apenas com Custom Commands já que até agora só mostrei conhecimento em Page Objects;
 
 💡 Apresentar material sobre um segundo framework de testes automatizados.
 
