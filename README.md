@@ -18,6 +18,8 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 👨‍🎓 Graduada em Sistemas de Informação pela Universidade Federal do Rio Grande;
 
+👨‍🎓 Pós-Graduanda em Teste e Qualidade de Software na Uninassau;
+
 🔎 Certificação CTFL pela BSTQB e me preparando para a CTFL-AT;
 
 💻 Analista de Testes Junior na Neogrid Informática;
