@@ -51,5 +51,6 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 **Próximos passos a curto prazo:**
 
 💡 Apresentar material sobre um segundo framework de testes automatizados.
+
 💡 Iniciar os estudos sobre K6 para testes de performance. 
 
