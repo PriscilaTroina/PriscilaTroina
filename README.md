@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Olá 👋 
 
-Meu nome é Priscila Troina e eu sou Analista de Testes. Possuo 2 anos de experiência e nesse tempo tive maior foco de atuação com testes manuais. No entanto, já faz algum tempo que estudo automação de testes e então, resolvi criar esse repositório para começar a mostrar meus projetos.
+Meu nome é Priscila Troina e eu sou Analista de Testes. Possuo 2 anos de experiência na área e nesse período atuei tanto com testes manuais funcionais, exploratórios e regressivos quanto com testes automatizados de UI e API utilizando Cypress.
 
 Meu perfil ainda está em construção, mas aqui seguem algumas informações importantes 👇:
 
@@ -24,7 +24,7 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 💻 Analista de Testes Junior na Neogrid Informática;
 
-🖥️ Atualmente, tenho meus estudos focados em Cypress e Selenium WebDriver com Java;
+🖥️ Atualmente, tenho meus estudos focados em Cypress e Playwright;
 
 
 **Ferramentas e Tecnologias que tenho experiência:**
@@ -50,7 +50,6 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 **Próximos passos a curto prazo:**
 
-💡 Finalizar o projeto próprio de automação do site QaZando que está em andamento;
-
 💡 Apresentar material sobre um segundo framework de testes automatizados.
+💡 Iniciar os estudos sobre K6 para testes de performance. 
 
