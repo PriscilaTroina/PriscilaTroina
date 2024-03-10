@@ -24,7 +24,7 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 💻 Analista de Testes Junior na Neogrid Informática;
 
-🖥️ Atualmente, tenho meus estudos focados em Cypress e Playwright;
+🖥️ Atualmente, tenho meus estudos focados em Cypress, Playwright e k6;
 
 
 **Ferramentas e Tecnologias que tenho experiência:**
@@ -48,9 +48,4 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 - Kanban.
 
 
-**Próximos passos a curto prazo:**
-
-💡 Apresentar material sobre um segundo framework de testes automatizados.
-
-💡 Iniciar os estudos sobre K6 para testes de performance. 
 
