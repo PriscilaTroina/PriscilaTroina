@@ -20,7 +20,7 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 👨‍🎓 Pós-Graduanda em Teste e Qualidade de Software na Uninassau;
 
-🔎 Certificação CTFL pela BSTQB e me preparando para a CTFL-AT;
+🔎 Certificação CTFL pela BSTQB;
 
 💻 Analista de Testes Junior na Neogrid Informática;
 
