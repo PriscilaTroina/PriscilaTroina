@@ -18,11 +18,11 @@ Meu perfil ainda está em construção, mas aqui seguem algumas informações im
 
 👨‍🎓 Graduada em Sistemas de Informação pela Universidade Federal do Rio Grande;
 
-👨‍🎓 Pós-Graduanda em Teste e Qualidade de Software na Uninassau;
+👨‍🎓 Pós-Graduada em Teste e Qualidade de Software na Uninassau;
 
 🔎 Certificação CTFL pela BSTQB;
 
-💻 Analista de Testes Junior na Neogrid Informática;
+💻 Analista de Testes Pleno na Capgemini;
 
 🖥️ Atualmente, tenho meus estudos focados em Cypress, Playwright e k6;
 
